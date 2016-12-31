@@ -3,6 +3,9 @@
 ## Overview
 This is a python based webserver that can be run on the Raspberry Pi the clusterhat is plugged into. You can then execute the commands "clusterhat on p1" from the browser.
 
+## Prerequisites
+Raspberry Pi controller must be working with an ip address and the clusterhat script must function correctly.
+
 ## Install Instructions
 
 Log in as user Pi
